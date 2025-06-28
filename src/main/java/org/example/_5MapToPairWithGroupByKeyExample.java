@@ -7,12 +7,11 @@ import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import scala.Tuple2;
-import scala.util.parsing.combinator.testing.Str;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MapToPairWithGroupByKeyExample {
+public class _5MapToPairWithGroupByKeyExample {
     public static void main(String[] args) {
         Logger.getLogger("org.apache").setLevel(Level.WARN);
         List<String> inputData = new ArrayList<>();

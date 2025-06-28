@@ -9,7 +9,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class _1Main {
     //private static Logger logger = LoggerFactory.getLogger(Main.class);
     public static void main(String[] args) {
         System.out.println("Hello world!");

@@ -9,9 +9,8 @@ import scala.Tuple2;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
-public class TupleRDDExample {
+public class _4TupleRDDExample {
     public static void main(String[] args) {
         Logger.getLogger("org.apache").setLevel(Level.WARN);
         List<Integer> inputData = new ArrayList<>();

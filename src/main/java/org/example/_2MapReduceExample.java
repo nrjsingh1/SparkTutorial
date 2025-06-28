@@ -9,7 +9,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MapReduceExample {
+public class _2MapReduceExample {
     public static void main(String[] args) {
         Logger.getLogger("org.apache").setLevel(Level.WARN);
         List<Integer> inputData = new ArrayList<>();
